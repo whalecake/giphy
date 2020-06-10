@@ -28,3 +28,12 @@ img {
 .rowThree {
     border: 4px solid #FEE975;
 }
+
+#header {
+  background-color: black;
+  border-top: #E4A4EE solid 5px;
+  border-bottom: #17D3FF solid 5px;
+  border-left: #FFAA7B solid 5px;
+  border-right: #FEE975 solid 5px;
+  margin: 20px;
+}
